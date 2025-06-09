@@ -1,0 +1,15 @@
+{
+    "EnvironmentVariables": [
+      {
+        "SchemaName": "bebe_Demo",
+        "Value": ""
+      }
+    ],
+    "ConnectionReferences": [
+      {
+        "LogicalName": "bebe_DataverseDemo",
+        "ConnectionId": "",
+        "ConnectorId": "/providers/Microsoft.PowerApps/apis/shared_commondataserviceforapps"
+      }
+    ]
+  }
